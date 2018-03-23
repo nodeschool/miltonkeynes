@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to NodeSchool MK!
 
-You can use the [editor on GitHub](https://github.com/nodeschool/miltonkeynes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## The 1st NodeSchool MK will happen on March 29 @TNMOC (Bletchley Park)
+**RSVP** [here]: (https://www.meetup.com/Girls-Code-Learn-to-Code-with-Other-Girls-and-Women/events/248726005/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What we'll do
+Come to NodeSchool if you want to learn more about Javascript and Node.js. The meetup is suitable for all levels (even if you are a complete beginner!) and everyone is welcomed (boys girls and everyone else!). The meetup will be coached by the Node.js master himself, [P J Evans] (https://twitter.com/mrpjevans?lang=en). We will meet at the Girls Code office space in Bletchley Park. Space is limited, so do let us know if you won't be able to attend as soon as possible. We will meet for two hours to study the nodeschool workshops as seen [here]: (https://nodeschool.io/)
 
-### Markdown
+You'll use the terminal/command line to begin learning Node.js, an open source, cross-platform runtime environment for server-side and networking applications. Node is a great way to get into full-stack JavaScript development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You'll also have the opportunity to use nodeschool.io to learn Git, JavaScript and other useful technologies. There will be stickers for completing workshops! We can help you with the installation if necessary, but if you feel confident enough to install Node yourself and you already have a text-editor then that would be great.
 
-```markdown
-Syntax highlighted code block
+Coffee, tea, and snacks will be provided (but bring your own if you have a special diet). Bring your laptop and charger. There's lots of free parking available and we are very close to the Bletchley train station. See you soon!
 
-# Header 1
-## Header 2
-### Header 3
+## What to bring
+Bring your laptop!
 
-- Bulleted
-- List
+## Important to know
+At GirlsCode we believe in co-learning. Share what you know with others and help those that are less experienced than you are. Be kind.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nodeschool/miltonkeynes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

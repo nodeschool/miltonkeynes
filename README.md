@@ -18,3 +18,6 @@ Bring your laptop!
 ## Important to know
 At GirlsCode we believe in co-learning. Share what you know with others and help those that are less experienced than you are. Be kind.
 
+## Contact
+[Twitter](https://twitter.com/GirlsCodeMK)
+[Meetup](https://www.meetup.com/Girls-Code-Learn-to-Code-with-Other-Girls-and-Women/)

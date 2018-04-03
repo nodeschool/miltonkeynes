@@ -1,7 +1,7 @@
 # Welcome to NodeSchool MK!
 
-## The 1st NodeSchool MK will happen on March 29 @TNMOC (Bletchley Park)
-**RSVP** [HERE](https://www.meetup.com/Girls-Code-Learn-to-Code-with-Other-Girls-and-Women/events/248726005/)
+## The 2nd NodeSchool MK will happen on April 19 @TNMOC (Bletchley Park)
+**RSVP** [HERE](https://www.meetup.com/Girls-Code-Learn-to-Code-with-Other-Girls-and-Women/events/249393708/)
 
 ## What we'll do
 Come to NodeSchool if you want to learn more about Javascript and Node.js. The meetup is suitable for all levels (even if you are a complete beginner!) and everyone is welcomed (boys girls and everyone else!). The meetup will be coached by the Node.js master himself, [P J Evans](https://twitter.com/mrpjevans?lang=en). We will meet at the Girls Code office space in Bletchley Park. Space is limited, so do let us know if you won't be able to attend as soon as possible. We will meet for two hours to study the nodeschool workshops as seen on [nodeschool](https://nodeschool.io/)

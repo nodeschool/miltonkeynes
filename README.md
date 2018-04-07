@@ -1,5 +1,7 @@
 # Welcome to NodeSchool MK!
 
+## NodeSchool MK is part of GirlsCode MK initative, see what else we do [HERE](http://girlscodemk.co.uk/)
+
 ## The 2nd NodeSchool MK will happen on April 19 @TNMOC (Bletchley Park)
 **RSVP** [HERE](https://www.meetup.com/Girls-Code-Learn-to-Code-with-Other-Girls-and-Women/events/249393708/)
 
@@ -21,3 +23,4 @@ At GirlsCode we believe in co-learning. Share what you know with others and help
 ## Contact
 [Twitter](https://twitter.com/GirlsCodeMK)
 [Meetup](https://www.meetup.com/Girls-Code-Learn-to-Code-with-Other-Girls-and-Women/)
+[Website](http://girlscodemk.co.uk/)

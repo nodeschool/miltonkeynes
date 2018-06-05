@@ -2,11 +2,17 @@
 
 ### NodeSchool MK is part of GirlsCode MK initative, see what else we do [HERE](http://girlscodemk.co.uk/)
 
-## The 2nd NodeSchool MK will happen on April 19 @TNMOC (Bletchley Park)
-**RSVP** [HERE](https://www.meetup.com/Girls-Code-Learn-to-Code-with-Other-Girls-and-Women/events/249393708/)
+## The 3rd NodeSchool MK will happen on Saturday, June 16 @TNMOC (Bletchley Park)
+**RSVP** [HERE](https://www.meetup.com/Girls-Code-Learn-to-Code-with-Other-Girls-and-Women/events/251396550/)
+
+This time we will do it as a half-day workshop. Lunch will be provided - thank you Rob and IP Cortex! - (please provide your dietary needs, if you have any).
+
+Beginners and first-timers warmly welcomed!
+
+This workshop is open to everyone (all genders, skills, backgrounds etc). Please RSVP as soon as you can. If you have RSVP-ed and can't make it, please let us know as soon as possible.
 
 ## What we'll do
-Come to NodeSchool if you want to learn more about Javascript and Node.js. The meetup is suitable for all levels (even if you are a complete beginner!) and everyone is welcomed (boys girls and everyone else!). The meetup will be coached by the Node.js master himself, [P J Evans](https://twitter.com/mrpjevans?lang=en). We will meet at the Girls Code office space in Bletchley Park. Space is limited, so do let us know if you won't be able to attend as soon as possible. We will meet for two hours to study the nodeschool workshops as seen on [nodeschool](https://nodeschool.io/)
+Come to NodeSchool if you want to learn more about Javascript and Node.js. The meetup is suitable for all levels (even if you are a complete beginner!) and everyone is welcomed (boys girls and everyone else!). We will meet at the Girls Code office space in Bletchley Park. Space is limited, so do let us know if you won't be able to attend as soon as possible. We will meet for two hours to study the nodeschool workshops as seen on [nodeschool](https://nodeschool.io/)
 
 You'll use the terminal/command line to begin learning Node.js, an open source, cross-platform runtime environment for server-side and networking applications. Node is a great way to get into full-stack JavaScript development.
 
